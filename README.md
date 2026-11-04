@@ -17,7 +17,7 @@ GlassUI is a **Liquid Glass UI library for Roblox** inspired by Apple's design l
 ## Loading the library
 
 ```lua
-local GlassUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/GlassUI/main/GlassUI.lua"))()
+local GlassUI = loadstring(game:HttpGet("[https://raw.githubusercontent.com/YOUR_USERNAME/GlassUI/main/GlassUI.lua](https://raw.githubusercontent.com/kawat7622-collab/Apple-Gui-Library-/refs/heads/main/GlassUI.lua)"))()
 ```
 
 ## Creating a window
